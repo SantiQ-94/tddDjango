@@ -1,4 +1,4 @@
-Django==1.11.16
+Django==1.11.29
 pytz==2018.5
 selenium==3.14.1
 urllib3==1.23
